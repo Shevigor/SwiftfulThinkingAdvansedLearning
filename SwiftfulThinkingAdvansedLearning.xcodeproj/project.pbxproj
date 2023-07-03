@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE09D05B2A52EA5800A08143 /* SwiftfulThinkingAdvansedLaerningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE09D05A2A52EA5800A08143 /* SwiftfulThinkingAdvansedLaerningApp.swift */; };
+		CE09D05B2A52EA5800A08143 /* SwiftfulThinkingAdvansedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE09D05A2A52EA5800A08143 /* SwiftfulThinkingAdvansedLearningApp.swift */; };
 		CE09D05F2A52EA5900A08143 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE09D05E2A52EA5900A08143 /* Assets.xcassets */; };
 		CE09D0622A52EA5900A08143 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE09D0612A52EA5900A08143 /* Preview Assets.xcassets */; };
 		CE09D0692A52EAFE00A08143 /* ViewModifierBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE09D0682A52EAFE00A08143 /* ViewModifierBootcamp.swift */; };
@@ -16,7 +16,7 @@
 
 /* Begin PBXFileReference section */
 		CE09D0572A52EA5800A08143 /* SwiftfulThinkingAdvansedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingAdvansedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CE09D05A2A52EA5800A08143 /* SwiftfulThinkingAdvansedLaerningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingAdvansedLaerningApp.swift; sourceTree = "<group>"; };
+		CE09D05A2A52EA5800A08143 /* SwiftfulThinkingAdvansedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingAdvansedLearningApp.swift; sourceTree = "<group>"; };
 		CE09D05E2A52EA5900A08143 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE09D0612A52EA5900A08143 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE09D0682A52EAFE00A08143 /* ViewModifierBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierBootcamp.swift; sourceTree = "<group>"; };
@@ -37,7 +37,7 @@
 		CE09D04E2A52EA5800A08143 = {
 			isa = PBXGroup;
 			children = (
-				CE09D0592A52EA5800A08143 /* SwiftfulThinkingAdvansedLaerning */,
+				CE09D0592A52EA5800A08143 /* SwiftfulThinkingAdvansedLearning */,
 				CE09D0582A52EA5800A08143 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,16 +50,16 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CE09D0592A52EA5800A08143 /* SwiftfulThinkingAdvansedLaerning */ = {
+		CE09D0592A52EA5800A08143 /* SwiftfulThinkingAdvansedLearning */ = {
 			isa = PBXGroup;
 			children = (
-				CE09D05A2A52EA5800A08143 /* SwiftfulThinkingAdvansedLaerningApp.swift */,
+				CE09D05A2A52EA5800A08143 /* SwiftfulThinkingAdvansedLearningApp.swift */,
 				CE09D0682A52EAFE00A08143 /* ViewModifierBootcamp.swift */,
 				CE09D06A2A52F9AF00A08143 /* ButtonStyleBootcamp.swift */,
 				CE09D05E2A52EA5900A08143 /* Assets.xcassets */,
 				CE09D0602A52EA5900A08143 /* Preview Content */,
 			);
-			path = SwiftfulThinkingAdvansedLaerning;
+			path = SwiftfulThinkingAdvansedLearning;
 			sourceTree = "<group>";
 		};
 		CE09D0602A52EA5900A08143 /* Preview Content */ = {
@@ -142,7 +142,7 @@
 			files = (
 				CE09D06B2A52F9AF00A08143 /* ButtonStyleBootcamp.swift in Sources */,
 				CE09D0692A52EAFE00A08143 /* ViewModifierBootcamp.swift in Sources */,
-				CE09D05B2A52EA5800A08143 /* SwiftfulThinkingAdvansedLaerningApp.swift in Sources */,
+				CE09D05B2A52EA5800A08143 /* SwiftfulThinkingAdvansedLearningApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,7 +270,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftfulThinkingAdvansedLaerning/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftfulThinkingAdvansedLearning/Preview Content\"";
 				DEVELOPMENT_TEAM = Y3FJ9QSCBU;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -284,7 +284,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = io.multidesigncode.SwiftfulThinkingAdvansedLaerning;
+				PRODUCT_BUNDLE_IDENTIFIER = io.multidesigncode.SwiftfulThinkingAdvansedLearning;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -302,7 +302,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftfulThinkingAdvansedLaerning/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftfulThinkingAdvansedLearning/Preview Content\"";
 				DEVELOPMENT_TEAM = Y3FJ9QSCBU;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -316,7 +316,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = io.multidesigncode.SwiftfulThinkingAdvansedLaerning;
+				PRODUCT_BUNDLE_IDENTIFIER = io.multidesigncode.SwiftfulThinkingAdvansedLearning;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
