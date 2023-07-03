@@ -31,7 +31,7 @@ extension View {
 
 struct ButtonStyleBootcamp: View {
     var body: some View {
-        VStack (spacing: 50){
+        VStack (spacing: 30){
             Button {
                 
             } label: {
