@@ -12,6 +12,7 @@
 		CE09D0622A52EA5900A08143 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE09D0612A52EA5900A08143 /* Preview Assets.xcassets */; };
 		CE09D0692A52EAFE00A08143 /* ViewModifierBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE09D0682A52EAFE00A08143 /* ViewModifierBootcamp.swift */; };
 		CE09D06B2A52F9AF00A08143 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE09D06A2A52F9AF00A08143 /* ButtonStyleBootcamp.swift */; };
+		CE09D06D2A53175F00A08143 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE09D06C2A53175F00A08143 /* AnyTransitionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		CE09D0612A52EA5900A08143 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE09D0682A52EAFE00A08143 /* ViewModifierBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierBootcamp.swift; sourceTree = "<group>"; };
 		CE09D06A2A52F9AF00A08143 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
+		CE09D06C2A53175F00A08143 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				CE09D05A2A52EA5800A08143 /* SwiftfulThinkingAdvansedLearningApp.swift */,
 				CE09D0682A52EAFE00A08143 /* ViewModifierBootcamp.swift */,
 				CE09D06A2A52F9AF00A08143 /* ButtonStyleBootcamp.swift */,
+				CE09D06C2A53175F00A08143 /* AnyTransitionBootcamp.swift */,
 				CE09D05E2A52EA5900A08143 /* Assets.xcassets */,
 				CE09D0602A52EA5900A08143 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				CE09D06B2A52F9AF00A08143 /* ButtonStyleBootcamp.swift in Sources */,
 				CE09D0692A52EAFE00A08143 /* ViewModifierBootcamp.swift in Sources */,
+				CE09D06D2A53175F00A08143 /* AnyTransitionBootcamp.swift in Sources */,
 				CE09D05B2A52EA5800A08143 /* SwiftfulThinkingAdvansedLearningApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
